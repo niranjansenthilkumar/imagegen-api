@@ -1,0 +1,8 @@
+click
+Flask
+numpy
+pyOpenSSL
+replicate
+requests
+urllib3
+packaging
