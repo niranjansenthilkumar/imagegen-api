@@ -1,119 +1,241 @@
-[
-    {
-        "prompt": "old Japanese train crossing water, tranquil sky, peaceful. studio ghibli illustration, pastel"
-    },
-    {
-        "prompt": "holographic majestic toad with purple kings robe, night, shining stars, hq"
-    },
-    {
-        "prompt": "female with short scarlet red hair, wearing a black uniform, anime"
-    },
-    {
-        "prompt": "Cute and Whimsical Christmas Hedgehog Collection on White Background with Margins, Watercolour"
-    },
-    {
-        "prompt": "lex luthor as vegetal"
-    },
-    {
-        "prompt": "The cutest tiny round and fluffy hooded crow wearing a purple scarf realistic cute beautiful photography 8k"
-    },
-    {
-        "prompt": "the cutest corgi in the world, hearts, love, happy, sparkles, glowing, digital art, kawaii, anime style,"
-    },
-    {
-        "prompt": "cute female Anthro Furry, how to draw, drawing reference, head construction, tutorial, gesture drawing"
-    },
-    {
-        "prompt": "Adorable kitten sinking into a holographic puddle to a parallel universe."
-    },
-    {
-        "prompt": "Cute little robot holding a package. ghibli style."
-    },
-    {
-        "prompt": "Environmental art in the style of Andreas Rocha"
-    },
-    {
-        "prompt": "mid century modern art, poster, minimalistic, behance, illustrator"
-    },
-    {
-        "prompt": "👩🏻‍🎤 holographic"
-    },
-    {
-        "prompt": "the oracle has a holographic third eye that likes to glitch out when she sees the future"
-    },
-    {
-        "prompt": "holographic background 🔥 🎲 🌹"
-    },
-    {
-        "prompt": "adult Alice in Wonderland, wide shot, full body, sakimichan, artgerm, Ruan Jia"
-    },
-    {
-        "prompt": "card artwork , marvel aesthetic, Fantasy Comic illustration, centered, no perspective"
-    },
-    {
-        "prompt": "holographic kirigami haute couture dress on a beautiful Korean model in surreal setting"
-    },
-    {
-        "prompt": "the little Colorado Grand Canyon in the style of William Matthews water color"
-    },
-    {
-        "prompt": "mountain range river, fred tomaselli, yayoi kusama, dan mumford,"
-    },
-    {
-        "prompt": "Cute and Whimsical Christmas Hedgehog Collection on White Background with Margins, Watercolour"
-    },
-    {
-        "prompt": "3d holographic solar system infographic , futurist render , interactive popup, ultra detailled render, 32k"
-    },
-    {
-        "prompt": "an advertisement in a catalogue of childrens clothing in watercolor, ”FAFO”, by Carl Larsson, Alan Lee,"
-    },
-    {
-        "prompt": "2000BC holographic anomaly"
-    },
-    {
-        "prompt": "heeled shoes, made of alive plants, leafy, manga style,"
-    },
-    {
-        "prompt": "pilgrims queue waiting in front of mystical floating Chinese stone city gate in the shape of a giant ring"
-    },
-    {
-        "prompt": "magnolia flower, magical, ethereal, holographic gossamer"
-    },
-    {
-        "prompt": "inception like landscape with trees and waterfall ,dark water paint"
-    },
-    {
-        "prompt": "two koi swimming underwater, water ripples, calm, optical effects, magic particles v 4 1"
-    },
-    {
-        "prompt": "Lovely anime Cyberpunk City Painting, Birds-eye View, Dutch Angle, Volumetric Lighting, Digital painting"
-    },
-    {
-        "prompt": "stunning mountain peak waterfall, lush vegetation, soft fluffly epic clouds, max rive, vibrant, colorful, dramatic"
-    },
-    {
-        "prompt": "origami of indian god ganesh, colorful flowers, craft, bright colors, sharp three dimensional sense, UHD, intricate"
-    },
-    {
-        "prompt": "a disney style vector illustration of a Louisiana swamp at sunset, cypress trees,"
-    },
-    {
-        "prompt": "fusion between Yoji Shinkawa and Donato Giancola and Beksinski, Female Space Marine, Profile, Mirrored Biotech Goggles, Dark, Stunning, dramatic"
-    },
-    {
-        "prompt": "Fox and flowers in the style of Alphonse Mucha"
-    },
-    {
-        "prompt": "studio ghibli style, a black cat with orange eyes running by Hayao Miyazaki, pencil-lined illustration, super vivid"
-    },
-    {
-        "prompt": "retro campervan by the lake, watercolor masterpiece"
-    },
-    {
-        "prompt": "Ancient babylon luxury back patio with jacuzzi hot tub, cool lighting, waterfall, romantic, architecture photography"
-    },
-    {
-        "prompt": "milkyway in a glass bottle, 4K, unreal engine, octane render"
-    }
+[{
+		"prompt": "old Japanese train crossing water, tranquil sky, peaceful. studio ghibli illustration, pastel"
+	},
+	{
+		"prompt": "holographic majestic toad with purple kings robe, night, shining stars, hq"
+	},
+	{
+		"prompt": "female with short scarlet red hair, wearing a black uniform, anime"
+	},
+	{
+		"prompt": "Cute and Whimsical Christmas Hedgehog Collection on White Background with Margins, Watercolour"
+	},
+	{
+		"prompt": "lex luthor as vegetal"
+	},
+	{
+		"prompt": "The cutest tiny round and fluffy hooded crow wearing a purple scarf realistic cute beautiful photography 8k"
+	},
+	{
+		"prompt": "the cutest corgi in the world, hearts, love, happy, sparkles, glowing, digital art, kawaii, anime style,"
+	},
+	{
+		"prompt": "cute female Anthro Furry, how to draw, drawing reference, head construction, tutorial, gesture drawing"
+	},
+	{
+		"prompt": "Adorable kitten sinking into a holographic puddle to a parallel universe."
+	},
+	{
+		"prompt": "Cute little robot holding a package. ghibli style."
+	},
+	{
+		"prompt": "Environmental art in the style of Andreas Rocha"
+	},
+	{
+		"prompt": "mid century modern art, poster, minimalistic, behance, illustrator"
+	},
+	{
+		"prompt": "👩🏻‍🎤 holographic"
+	},
+	{
+		"prompt": "the oracle has a holographic third eye that likes to glitch out when she sees the future"
+	},
+	{
+		"prompt": "holographic background 🔥 🎲 🌹"
+	},
+	{
+		"prompt": "adult Alice in Wonderland, wide shot, full body, sakimichan, artgerm, Ruan Jia"
+	},
+	{
+		"prompt": "card artwork , marvel aesthetic, Fantasy Comic illustration, centered, no perspective"
+	},
+	{
+		"prompt": "holographic kirigami haute couture dress on a beautiful Korean model in surreal setting"
+	},
+	{
+		"prompt": "the little Colorado Grand Canyon in the style of William Matthews water color"
+	},
+	{
+		"prompt": "mountain range river, fred tomaselli, yayoi kusama, dan mumford,"
+	},
+	{
+		"prompt": "Cute and Whimsical Christmas Hedgehog Collection on White Background with Margins, Watercolour"
+	},
+	{
+		"prompt": "3d holographic solar system infographic , futurist render , interactive popup, ultra detailled render, 32k"
+	},
+	{
+		"prompt": "an advertisement in a catalogue of childrens clothing in watercolor, ”FAFO”, by Carl Larsson, Alan Lee,"
+	},
+	{
+		"prompt": "2000BC holographic anomaly"
+	},
+	{
+		"prompt": "heeled shoes, made of alive plants, leafy, manga style,"
+	},
+	{
+		"prompt": "pilgrims queue waiting in front of mystical floating Chinese stone city gate in the shape of a giant ring"
+	},
+	{
+		"prompt": "magnolia flower, magical, ethereal, holographic gossamer"
+	},
+	{
+		"prompt": "inception like landscape with trees and waterfall ,dark water paint"
+	},
+	{
+		"prompt": "two koi swimming underwater, water ripples, calm, optical effects, magic particles v 4 1"
+	},
+	{
+		"prompt": "Lovely anime Cyberpunk City Painting, Birds-eye View, Dutch Angle, Volumetric Lighting, Digital painting"
+	},
+	{
+		"prompt": "stunning mountain peak waterfall, lush vegetation, soft fluffly epic clouds, max rive, vibrant, colorful, dramatic"
+	},
+	{
+		"prompt": "origami of indian god ganesh, colorful flowers, craft, bright colors, sharp three dimensional sense, UHD, intricate"
+	},
+	{
+		"prompt": "a disney style vector illustration of a Louisiana swamp at sunset, cypress trees,"
+	},
+	{
+		"prompt": "fusion between Yoji Shinkawa and Donato Giancola and Beksinski, Female Space Marine, Profile, Mirrored Biotech Goggles, Dark, Stunning, dramatic"
+	},
+	{
+		"prompt": "Fox and flowers in the style of Alphonse Mucha"
+	},
+	{
+		"prompt": "studio ghibli style, a black cat with orange eyes running by Hayao Miyazaki, pencil-lined illustration, super vivid"
+	},
+	{
+		"prompt": "retro campervan by the lake, watercolor masterpiece"
+	},
+	{
+		"prompt": "Ancient babylon luxury back patio with jacuzzi hot tub, cool lighting, waterfall, romantic, architecture photography"
+	},
+	{
+		"prompt": "A whimsical illustration of a fish jumping out of a pond and into a beautiful meadow."
+	},
+	{
+		"prompt": "Edgy, Punk Disney Princess Merida in a crop top and high waisted short shorts, tattoos."
+	},
+	{
+		"prompt": "Close on a futuristic pirate ship in a snowy bay at sunset, hyperdetailed, by donato giancola, anders zorn"
+	},
+	{
+		"prompt": "35 mm film photograph of a grid of office workers in cubicles, wearing dull grey suits, blue light emitting screens"
+	},
+	{
+		"prompt": "rabbit and puffer fish are best friends"
+	},
+	{
+		"prompt": "beautiful girl wearing leather jacket, smile, full body, detailed facial features, detailed eyes : with headphones"
+	},
+	{
+		"prompt": "photo of a small red colored longboat, in the canals of Amsteredam, in frozen water, iced water, at golden hour in the river"
+	},
+	{
+		"prompt": "Muscular Panda Humanoid with great power, aesthetics, studio lighting, cinematic lighting, deep focus"
+	},
+	{
+		"prompt": "Cosmic sky with dark blue background, cosmos, milky way, gold glitter, stars, planet with rings. Swirling around"
+	},
+	{
+		"prompt": "medium action shot by jimmy marble. painting of a female overwatch elven warrior next to her large bulky scaled dragon"
+	},
+	{
+		"prompt": "drift car drifting down a winding forest street. Smoke, formula drift. by Ismail Inceoglu & seven.teenth artstation"
+	},
+	{
+		"prompt": "a highland terrier sitting on a coach in an English pub, hyperrealistic, photorealistic, high detail"
+	},
+	{
+		"prompt": "moon, mountain, max rive, dramatic cinematic lighting, very detailed, sharp, 4k, 8k,"
+	},
+	{
+		"prompt": "Close on an old Alien Egyptian-Moroccan Wizard Warrior holding a magic ball, light-blue skin"
+	},
+	{
+		"prompt": "surrealist artwork, cover art, minimalist hyperwave, character design"
+	},
+	{
+		"prompt": "The Bluefish of Happiness; grim fairytale; steampunk; large fish with a young girl; as an oracle card"
+	},
+	{
+		"prompt": "alluring sweaty stop-motion courtesan, style of Tim Burton film"
+	},
+	{
+		"prompt": "Lovely anime Cyberpunk City Painting, Birds-eye View, Dutch Angle, Volumetric Lighting, Digital painting"
+	},
+	{
+		"prompt": "a young man works his way across a shallow stream, painting by andrew wyeth, beautiful summer colors"
+	},
+	{
+		"prompt": "happifish is a warm gun mama"
+	},
+	{
+		"prompt": "**Pixar Cute Character little Girl Blond, isometric, rich detail, 3D"
+	},
+	{
+		"prompt": "happiness is painting a smile on our faces when we arent happy and living a fake reality"
+	},
+	{
+		"prompt": "rule of thirds, three priests praying in front of an alien monument"
+	},
+	{
+		"prompt": "a candy solar system and candy planets are pure happiness"
+	},
+	{
+		"prompt": "fishtank in the suitcase"
+	},
+	{
+		"prompt": "full body view of vantablack portrait of an anthropomorphic tattooed fish dancing with void in space"
+	},
+	{
+		"prompt": "cycling race, wind tunnel, joy, happiness, retro futuristic, beautiful hippy, haute couture, fashion shoot"
+	},
+	{
+		"prompt": "⛩️ 🏮 🪷 🌸 ❄️ 🌄"
+	},
+	{
+		"prompt": "an alien Egyptian Elven Female Bounty Hunter, dark skin, light-blue eyes, golden armor, dark red cloth"
+	},
+	{
+		"prompt": "Iron man but he is as zombie, Epic, insane, Marvel, zombie, background, full body, uhd, 16k, detailed, scary"
+	},
+	{
+		"prompt": "cyberpunk Mercedes cls 55, Need for Speed: Most Wanted, realistc, night."
+	},
+	{
+		"prompt": "vast fantasy golden mottled mackereled landscape, banff lake louise clouds waterfalls, max rive"
+	},
+	{
+		"prompt": "cycling, storm, joy, happiness, retro futuristic, beautiful hippy, haute couture, fashion shoot"
+	},
+	{
+		"prompt": "the king of the fishs by Basquiat, toulouse-lautrec and julie mehretu"
+	},
+	{
+		"prompt": "Professional photography, elegant 15th century-inspired young couple, full body portrait, beautiful environment"
+	},
+	{
+		"prompt": "neon mushrooms at night, painted by ancient chinese artist"
+	},
+	{
+		"prompt": "many houses in a forest made out of string, environment, Pixar style, dramatic lighting, eighties vibe"
+	},
+	{
+		"prompt": "the agoroman's revenge and the dawn of an eclipse in the style of Hieronymus Bosch"
+	},
+	{
+		"prompt": "we're all cat people here"
+	},
+	{
+		"prompt": "underwater photography of marine life. Photo realism."
+	},
+	{
+		"prompt": "20000BC holographic anomaly portal slice"
+	},
+	{
+		"prompt": "milkyway in a glass bottle, 4K, unreal engine, octane render"
+	}
 ]
